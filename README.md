@@ -1,2 +1,3 @@
-# C-_Learn_Day1
-I learn C++ in day 1 
+# I study about git and github
+I study git and github
+How to push, pull branch, ect...
